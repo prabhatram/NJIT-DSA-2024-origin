@@ -68,6 +68,6 @@ public class Grades {
     * @return The int array.
     */
    public Integer [] getArray() {
-      return grades;
+      return null;
    }
 }
